@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to Keepview
 
-You can use the [editor on GitHub](https://github.com/skylaryoung/keepview_www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Buying a new house is seriously overwhelming.  There is so much to keep track of, my wife and I need to create a Jira project just to track the must dos related to closing and moving.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### But what about maintenance?
 
-### Markdown
+There are so many things documented in inpsection reports, user manuals, family advice, and the Internet.  How do you make sense of all the things you are supposed to do monthly, quaretly, annually, or in the fall/winter/spring?  We thought about a spreadsheet, but since we track our project tasks in Jira alreaady, why not keep it all in one place and make it easy to see what we needed to do for the upcoming month?  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Enter Keepveiw
 
-```markdown
-Syntax highlighted code block
+### Features
 
-# Header 1
-## Header 2
-### Header 3
+- Integration with Jira cloud for task tracking
+- Automatically add new planned maintenance (PMs) on completion
+- Add / Change comples scheduling patterns
+- Categories for adding health, auto, etc. PM tasks
 
-- Bulleted
-- List
+## Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skylaryoung/keepview_www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want more info? We'll be available for contact soon!.
